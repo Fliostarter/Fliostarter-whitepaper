@@ -1,1 +1,1 @@
-Fliostarter-whitepaper : get in github or https://flio.io/Fliostarter Whitepaper.pdf
+Fliostarter-whitepaper : get in github or https://flio.io/FliostarterWhitepaper.pdf
